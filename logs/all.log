@@ -1,0 +1,92 @@
+2023-09-06 14:52:58 | INFO | {"firstName":"omar","lastName":"soliman","email":"omar@gmail.com","password":"4848418dads"}
+2023-09-06 14:55:03 | INFO | {"firstName":"omar","lastName":"soliman","email":"omar@gmail.com","password":"4848418dads"}
+2023-09-06 14:55:03 | ERROR | User.findne is not a function
+2023-09-06 14:58:40 | INFO | {"lastName":"soliman","email":"omar@gmail.com","password":"4848418dads"}
+2023-09-06 15:02:31 | WARN | {"firstName":"omar","lastName":"soliman","email":"omar@gmail.com","password":"4848418dads"}
+2023-09-06 15:04:25 | WARN | {"lastName":"soliman","email":"omar@gmail.com","password":"4848418dads"}
+2023-09-06 18:26:09 | ERROR | loginSchema is not defined
+2023-09-06 18:26:55 | WARN | "password" is required
+2023-09-06 19:15:31 | WARN | "password" is required
+2023-09-06 20:10:58 | WARN | {"email":"omr@gmail.com","password":"4848418dads"}
+2023-09-06 20:15:28 | WARN | {"email":"omar@gmail.com","password":"4848418dads"}
+2023-09-06 20:15:36 | WARN | {"email":"omar@gmail.com","password":"4848418dads"}
+2023-09-06 20:16:39 | WARN | {"email":"omr@gmail.com","password":"4848418dads"}
+2023-09-06 20:32:51 | WARN | {"email":"omr@gmail.com","password":"4848418dads"}
+2023-09-06 20:34:11 | WARN | {"email":"omr@gmail.com","password":"4848418dads"}
+2023-09-06 20:34:50 | WARN | {"email":"omr@gmail.com","password":"4848418dads"}
+2023-09-06 20:35:31 | WARN | {"email":"omar@gmail.com","password":"4848418dds"}
+2023-09-06 21:15:21 | WARN | {"email":"omar@gmail.com","password":"4848418dads"}
+2023-09-06 21:15:21 | ERROR | secretOrPrivateKey must have a value
+2023-09-06 21:17:54 | WARN | {"email":"omar@gmail.com","password":"4848418dads"}
+2023-09-06 21:34:05 | WARN | {"email":"omar@gmail.com","password":"4848418dads"}
+2023-09-06 21:51:24 | WARN | {"email":"omar@gmail.com","password":"4848418dads"}
+2023-09-06 21:52:00 | WARN | {"email":"omar@gmail.com","password":"4848418dads"}
+2023-09-06 21:52:01 | WARN | {"email":"omar@gmail.com","password":"4848418dads"}
+2023-09-08 16:15:48 | ERROR | jwt must be provided
+2023-09-08 16:26:18 | WARN | {"email":"omar@gmail.com","password":"4848418dads"}
+2023-09-08 16:35:36 | WARN | {"email":"omar@gmail.com","password":"4848418dads"}
+2023-09-08 16:40:54 | ERROR | jwt must be provided
+2023-09-08 16:41:22 | ERROR | jwt must be provided
+2023-09-08 16:42:36 | WARN | {"email":"omar@gmail.com","password":"4848418dads"}
+2023-09-08 16:45:54 | ERROR | jwt must be provided
+2023-09-08 16:50:51 | ERROR | jwt must be provided
+2023-09-08 16:52:19 | ERROR | jwt must be provided
+2023-09-08 16:53:05 | WARN | "email" is required
+2023-09-08 16:53:35 | WARN | {"email":"omar@gmail.com","password":"4848418dads"}
+2023-09-08 16:54:46 | ERROR | jwt malformed
+2023-09-08 16:57:44 | ERROR | jwt must be provided
+2023-09-08 16:58:04 | WARN | "email" is required
+2023-09-08 16:58:13 | WARN | {"email":"omar@gmail.com","password":"4848418dads"}
+2023-09-08 16:58:23 | ERROR | jwt malformed
+2023-09-08 17:20:32 | ERROR | jwt must be provided
+2023-09-08 17:21:44 | WARN | {"email":"omar@gmail.com","password":"4848418dads"}
+2023-09-08 17:21:53 | ERROR | jwt malformed
+2023-09-08 18:02:30 | WARN | {"email":"omar@gmail.com","password":"4848418dads"}
+2023-09-08 18:03:01 | ERROR | jwt malformed
+2023-09-08 18:06:08 | WARN | {"email":"omar@gmail.com","password":"4848418dads"}
+2023-09-08 18:06:18 | ERROR | jwt malformed
+2023-09-08 18:07:25 | ERROR | jwt malformed
+2023-09-08 18:14:03 | ERROR | jwt must be provided
+2023-09-08 18:18:12 | ERROR | jwt must be provided
+2023-09-08 18:21:48 | WARN | "email" is required
+2023-09-08 18:22:12 | WARN | {"email":"omar@gmail.com","password":"4848418dads"}
+2023-09-08 18:23:03 | ERROR | jwt malformed
+2023-09-08 18:47:40 | WARN | {"email":"omar@gmail.com","password":"4848418dads"}
+2023-09-08 18:50:40 | WARN | {"email":"omar@gmail.com","password":"4848418dads"}
+2023-09-08 18:51:04 | WARN | {"email":"omar@gmail.com","password":"4848418dads"}
+2023-09-08 18:51:57 | WARN | {"email":"omar@gmail.com","password":"4848418dads"}
+2023-09-08 18:54:22 | WARN | {"email":"omar@gmail.com","password":"4848418dads"}
+2023-09-08 18:54:39 | WARN | {"email":"omar@gmail.com","password":"4848418dads"}
+2023-09-08 18:57:18 | WARN | {"email":"omar@gmail.com","password":"4848418dads"}
+2023-09-08 18:58:09 | WARN | {"email":"omar@gmail.com","password":"4848418dads"}
+2023-09-08 19:00:37 | WARN | {"email":"omar@gmail.com","password":"4848418dads"}
+2023-09-08 19:14:57 | WARN | {"email":"omar@gmail.com","password":"4848418dads"}
+2023-09-09 10:46:48 | WARN | {"email":"omar@gmail.com","password":"4848418dads"}
+2023-09-09 11:01:45 | WARN | {"email":"omar@gmail.com","password":"4848418dads"}
+2023-09-09 11:10:33 | WARN | {"email":"omar@gmail.com","password":"4848418dads"}
+2023-09-09 11:13:52 | ERROR | jwt must be provided
+2023-09-09 11:14:04 | WARN | {"email":"omar@gmail.com","password":"4848418dads"}
+2023-09-09 13:14:09 | WARN | {"email":"omar@gmail.com","password":"4848418dads"}
+2023-09-09 13:29:18 | ERROR | jwt must be provided
+2023-09-09 13:29:33 | WARN | {"email":"omar@gmail.com","password":"4848418dads"}
+2023-09-09 13:38:46 | WARN | {"email":"omar@gmail.com","password":"4848418dads"}
+2023-09-09 14:06:03 | WARN | {"email":"omar@gmail.com","password":"4848418dads"}
+2023-09-09 14:09:47 | ERROR | jwt must be provided
+2023-09-09 14:09:54 | WARN | "email" is required
+2023-09-09 14:10:08 | WARN | {"email":"omar@gmail.com","password":"4848418dads"}
+2023-09-09 14:12:01 | WARN | {"email":"omar@gmail.com","password":"4848418dads"}
+2023-09-09 14:14:13 | WARN | {"email":"omar@gmail.com","password":"4848418dads"}
+2023-09-09 14:15:38 | ERROR | blog validation failed: image: Path `image` is required., content: Path `content` is required., title: Path `title` is required.
+2023-09-09 14:21:42 | ERROR | jwt must be provided
+2023-09-09 14:21:58 | WARN | "email" is required
+2023-09-09 14:22:14 | WARN | {"email":"omar@gmail.com","password":"4848418dads"}
+2023-09-09 14:32:42 | ERROR | jwt must be provided
+2023-09-09 14:32:58 | WARN | {"email":"omar@gmail.com","password":"4848418dads"}
+2023-09-09 14:36:21 | ERROR | jwt must be provided
+2023-09-09 14:36:35 | WARN | {"email":"omar@gmail.com","password":"4848418dads"}
+2023-09-09 14:58:10 | ERROR | jwt must be provided
+2023-09-09 14:58:25 | WARN | {"email":"omar@gmail.com","password":"4848418dads"}
+2023-09-11 13:17:49 | WARN | {"email":"omar@gmail.com","password":"4848418dads"}
+2023-09-11 13:31:19 | ERROR | jwt must be provided
+2023-09-11 13:31:36 | WARN | {"email":"omar@gmail.com","password":"4848418dads"}
+2023-09-11 13:32:27 | INFO | omar
